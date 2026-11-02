@@ -18,7 +18,7 @@ Build your routines, log every set in a few taps and see yourself improve. No ac
 - **Apple Watch:** log sets from your wrist with live heart rate and calories; the workout is saved to Apple Health.
 - **Always at hand:** Live Activity on the Lock Screen and in the Dynamic Island, widgets, Control Center and Siri to start your next workout.
 - **Progress:** charts and records for each exercise, weekly sets by muscle group, a workout diary and a monthly recap.
-- **Your data stays yours:** on your iPhone and, if you like, in your private iCloud. No account, no ads, no tracking.
+- **Private by design:** your data stays on your iPhone and Apple Watch and never reaches the developer. No account, no servers, no ads, no tracking.
 
 <p align="center">
   <a href="https://matteopiccadaci.github.io/lift_app/en">Privacy Policy</a> ·
